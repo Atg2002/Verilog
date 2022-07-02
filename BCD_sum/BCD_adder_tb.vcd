@@ -1,0 +1,234 @@
+$date
+	Sat Jul 02 22:17:46 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module BCD_adder_tb $end
+$var wire 1 ! S8 $end
+$var wire 1 " S4 $end
+$var wire 1 # S2 $end
+$var wire 1 $ S1 $end
+$var wire 1 % Cout $end
+$var reg 1 & Cin $end
+$var reg 1 ' a0 $end
+$var reg 1 ( a1 $end
+$var reg 1 ) a2 $end
+$var reg 1 * a3 $end
+$var reg 1 + b0 $end
+$var reg 1 , b1 $end
+$var reg 1 - b2 $end
+$var reg 1 . b3 $end
+$scope module Ba1 $end
+$var wire 1 & Cin $end
+$var wire 1 % Cout $end
+$var wire 1 / V $end
+$var wire 1 ' a0 $end
+$var wire 1 ( a1 $end
+$var wire 1 ) a2 $end
+$var wire 1 * a3 $end
+$var wire 1 + b0 $end
+$var wire 1 , b1 $end
+$var wire 1 - b2 $end
+$var wire 1 . b3 $end
+$var wire 1 0 Z8 $end
+$var wire 1 1 Z4 $end
+$var wire 1 2 Z2 $end
+$var wire 1 3 Z1 $end
+$var wire 1 ! S8 $end
+$var wire 1 " S4 $end
+$var wire 1 # S2 $end
+$var wire 1 $ S1 $end
+$var wire 1 4 K $end
+$var wire 1 5 C2 $end
+$scope module B1 $end
+$var wire 1 & M $end
+$var wire 1 / V $end
+$var wire 1 ' a0 $end
+$var wire 1 ( a1 $end
+$var wire 1 ) a2 $end
+$var wire 1 * a3 $end
+$var wire 1 + b0 $end
+$var wire 1 , b1 $end
+$var wire 1 - b2 $end
+$var wire 1 . b3 $end
+$var wire 1 6 w0 $end
+$var wire 1 7 w1 $end
+$var wire 1 8 w2 $end
+$var wire 1 9 w3 $end
+$var wire 1 0 S3 $end
+$var wire 1 1 S2 $end
+$var wire 1 2 S1 $end
+$var wire 1 3 S0 $end
+$var wire 1 : C3 $end
+$var wire 1 ; C2 $end
+$var wire 1 < C1 $end
+$var wire 1 4 C $end
+$scope module F0 $end
+$var wire 1 < C $end
+$var wire 1 3 S $end
+$var wire 1 = w1 $end
+$var wire 1 ' x $end
+$var wire 1 6 y $end
+$var wire 1 & z $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 ; C $end
+$var wire 1 2 S $end
+$var wire 1 > w1 $end
+$var wire 1 ( x $end
+$var wire 1 7 y $end
+$var wire 1 < z $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 : C $end
+$var wire 1 1 S $end
+$var wire 1 ? w1 $end
+$var wire 1 ) x $end
+$var wire 1 8 y $end
+$var wire 1 ; z $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 4 C $end
+$var wire 1 0 S $end
+$var wire 1 @ w1 $end
+$var wire 1 * x $end
+$var wire 1 9 y $end
+$var wire 1 : z $end
+$upscope $end
+$upscope $end
+$scope module B2 $end
+$var wire 1 A M $end
+$var wire 1 / V $end
+$var wire 1 3 a0 $end
+$var wire 1 2 a1 $end
+$var wire 1 1 a2 $end
+$var wire 1 0 a3 $end
+$var wire 1 B b0 $end
+$var wire 1 % b1 $end
+$var wire 1 % b2 $end
+$var wire 1 C b3 $end
+$var wire 1 D w0 $end
+$var wire 1 E w1 $end
+$var wire 1 F w2 $end
+$var wire 1 G w3 $end
+$var wire 1 ! S3 $end
+$var wire 1 " S2 $end
+$var wire 1 # S1 $end
+$var wire 1 $ S0 $end
+$var wire 1 H C3 $end
+$var wire 1 I C2 $end
+$var wire 1 J C1 $end
+$var wire 1 5 C $end
+$scope module F0 $end
+$var wire 1 J C $end
+$var wire 1 $ S $end
+$var wire 1 K w1 $end
+$var wire 1 3 x $end
+$var wire 1 D y $end
+$var wire 1 A z $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 I C $end
+$var wire 1 # S $end
+$var wire 1 L w1 $end
+$var wire 1 2 x $end
+$var wire 1 E y $end
+$var wire 1 J z $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 H C $end
+$var wire 1 " S $end
+$var wire 1 M w1 $end
+$var wire 1 1 x $end
+$var wire 1 F y $end
+$var wire 1 I z $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 5 C $end
+$var wire 1 ! S $end
+$var wire 1 N w1 $end
+$var wire 1 0 x $end
+$var wire 1 G y $end
+$var wire 1 H z $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+0C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1"
+1M
+11
+1<
+1;
+0$
+1#
+0K
+1L
+03
+12
+16
+17
+0=
+0>
+1+
+1,
+1'
+1(
+#40

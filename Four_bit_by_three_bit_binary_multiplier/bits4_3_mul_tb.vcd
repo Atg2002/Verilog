@@ -1,0 +1,262 @@
+$date
+	Sat Jul 02 23:50:47 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module bits4_3_mul_tb $end
+$var wire 1 ! c6 $end
+$var wire 1 " c5 $end
+$var wire 1 # c4 $end
+$var wire 1 $ c3 $end
+$var wire 1 % c2 $end
+$var wire 1 & c1 $end
+$var wire 1 ' c0 $end
+$var reg 1 ( a0 $end
+$var reg 1 ) a1 $end
+$var reg 1 * a2 $end
+$var reg 1 + b0 $end
+$var reg 1 , b1 $end
+$var reg 1 - b2 $end
+$var reg 1 . b3 $end
+$scope module M1 $end
+$var wire 1 ( a0 $end
+$var wire 1 ) a1 $end
+$var wire 1 * a2 $end
+$var wire 1 + b0 $end
+$var wire 1 , b1 $end
+$var wire 1 - b2 $end
+$var wire 1 . b3 $end
+$var wire 1 ' c0 $end
+$var wire 1 & c1 $end
+$var wire 1 / w0 $end
+$var wire 1 0 w1 $end
+$var wire 1 1 w10 $end
+$var wire 1 2 w11 $end
+$var wire 1 3 w2 $end
+$var wire 1 4 w3 $end
+$var wire 1 5 w4 $end
+$var wire 1 6 w5 $end
+$var wire 1 7 w6 $end
+$var wire 1 8 w7 $end
+$var wire 1 9 w8 $end
+$var wire 1 : w9 $end
+$var wire 1 ! c6 $end
+$var wire 1 " c5 $end
+$var wire 1 # c4 $end
+$var wire 1 $ c3 $end
+$var wire 1 % c2 $end
+$var wire 1 ; V2 $end
+$var wire 1 < V $end
+$var wire 1 = S14 $end
+$var wire 1 > S13 $end
+$var wire 1 ? S12 $end
+$var wire 1 @ S11 $end
+$var wire 1 A C1 $end
+$scope module A1 $end
+$var wire 1 B M $end
+$var wire 1 < V $end
+$var wire 1 0 a0 $end
+$var wire 1 3 a1 $end
+$var wire 1 4 a2 $end
+$var wire 1 C a3 $end
+$var wire 1 5 b0 $end
+$var wire 1 6 b1 $end
+$var wire 1 7 b2 $end
+$var wire 1 8 b3 $end
+$var wire 1 D w0 $end
+$var wire 1 E w1 $end
+$var wire 1 F w2 $end
+$var wire 1 G w3 $end
+$var wire 1 = S3 $end
+$var wire 1 > S2 $end
+$var wire 1 ? S1 $end
+$var wire 1 @ S0 $end
+$var wire 1 H C3 $end
+$var wire 1 I C2 $end
+$var wire 1 J C1 $end
+$var wire 1 A C $end
+$scope module F0 $end
+$var wire 1 J C $end
+$var wire 1 @ S $end
+$var wire 1 K w1 $end
+$var wire 1 0 x $end
+$var wire 1 D y $end
+$var wire 1 B z $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 I C $end
+$var wire 1 ? S $end
+$var wire 1 L w1 $end
+$var wire 1 3 x $end
+$var wire 1 E y $end
+$var wire 1 J z $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 H C $end
+$var wire 1 > S $end
+$var wire 1 M w1 $end
+$var wire 1 4 x $end
+$var wire 1 F y $end
+$var wire 1 I z $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 A C $end
+$var wire 1 = S $end
+$var wire 1 N w1 $end
+$var wire 1 C x $end
+$var wire 1 G y $end
+$var wire 1 H z $end
+$upscope $end
+$upscope $end
+$scope module A2 $end
+$var wire 1 O M $end
+$var wire 1 ; V $end
+$var wire 1 9 a0 $end
+$var wire 1 : a1 $end
+$var wire 1 1 a2 $end
+$var wire 1 2 a3 $end
+$var wire 1 ? b0 $end
+$var wire 1 > b1 $end
+$var wire 1 = b2 $end
+$var wire 1 A b3 $end
+$var wire 1 P w0 $end
+$var wire 1 Q w1 $end
+$var wire 1 R w2 $end
+$var wire 1 S w3 $end
+$var wire 1 " S3 $end
+$var wire 1 # S2 $end
+$var wire 1 $ S1 $end
+$var wire 1 % S0 $end
+$var wire 1 T C3 $end
+$var wire 1 U C2 $end
+$var wire 1 V C1 $end
+$var wire 1 ! C $end
+$scope module F0 $end
+$var wire 1 V C $end
+$var wire 1 % S $end
+$var wire 1 W w1 $end
+$var wire 1 9 x $end
+$var wire 1 P y $end
+$var wire 1 O z $end
+$upscope $end
+$scope module F1 $end
+$var wire 1 U C $end
+$var wire 1 $ S $end
+$var wire 1 X w1 $end
+$var wire 1 : x $end
+$var wire 1 Q y $end
+$var wire 1 V z $end
+$upscope $end
+$scope module F2 $end
+$var wire 1 T C $end
+$var wire 1 # S $end
+$var wire 1 Y w1 $end
+$var wire 1 1 x $end
+$var wire 1 R y $end
+$var wire 1 U z $end
+$upscope $end
+$scope module F3 $end
+$var wire 1 ! C $end
+$var wire 1 " S $end
+$var wire 1 Z w1 $end
+$var wire 1 2 x $end
+$var wire 1 S y $end
+$var wire 1 T z $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0Z
+0Y
+0X
+0W
+0V
+0U
+0T
+0S
+0R
+0Q
+0P
+0O
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+0C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1#
+1U
+1V
+1P
+1&
+1@
+1?
+0%
+0$
+1K
+1L
+0W
+1X
+1D
+1E
+19
+1:
+15
+16
+1,
+1+
+1*
+1)
+#40

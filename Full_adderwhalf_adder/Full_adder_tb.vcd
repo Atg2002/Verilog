@@ -1,0 +1,67 @@
+$date
+	Sat Jul 02 12:37:10 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Full_adder_tb $end
+$var wire 1 ! S $end
+$var wire 1 " C $end
+$var reg 1 # x $end
+$var reg 1 $ y $end
+$var reg 1 % z $end
+$scope module uut $end
+$var wire 1 " C $end
+$var wire 1 # x $end
+$var wire 1 $ y $end
+$var wire 1 % z $end
+$var wire 1 & w2 $end
+$var wire 1 ' w1s $end
+$var wire 1 ( w1c $end
+$var wire 1 ! S $end
+$scope module H1 $end
+$var wire 1 ( C $end
+$var wire 1 ' S $end
+$var wire 1 # x $end
+$var wire 1 $ y $end
+$upscope $end
+$scope module H2 $end
+$var wire 1 & C $end
+$var wire 1 ! S $end
+$var wire 1 ' x $end
+$var wire 1 % y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0(
+0'
+0&
+0%
+0$
+0#
+0"
+0!
+$end
+#20
+1!
+1'
+1#
+#40
+0!
+1"
+0'
+1(
+1$
+#60
+1!
+1%
+#80
